@@ -1,0 +1,112 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Alena",
+      "health": 100,
+      "Sneezes": 0
+    },
+    {
+      "id": 2,
+      "name": "Amy",
+      "health": 100,
+      "Sneezes": 0
+    },
+    {
+      "id": 3,
+      "name": "Andy",
+      "health": 100,
+      "Sneezes": 0
+    },
+    {
+      "id": 4,
+      "name": "Belinda",
+      "health": 100,
+      "Sneezes": 0
+    },
+    {
+      "id": 5,
+      "name": "Dan",
+      "health": 100,
+      "Sneezes": 1
+    },
+    {
+      "id": 6,
+      "name": "Daniel",
+      "health": 100,
+      "Sneezes": 0
+    },
+    {
+      "id": 7,
+      "name": "Darrow",
+      "health": 100,
+      "Sneezes": 0
+    },
+    {
+      "id": 8,
+      "name": "Gabbie",
+      "health": 100,
+      "Sneezes": 0
+    },
+    {
+      "id": 9,
+      "name": "Jason",
+      "health": 100,
+      "Sneezes": 0
+    },
+    {
+      "id": 10,
+      "name": "Jon",
+      "health": 100,
+      "Sneezes": 0
+    },
+    {
+      "id": 11,
+      "name": "Kunxi",
+      "health": 100,
+      "Sneezes": 0
+    },
+    {
+      "id": 12,
+      "name": "Mason",
+      "health": 100,
+      "Sneezes": 0
+    },
+    {
+      "id": 13,
+      "name": "Matt",
+      "health": 100,
+      "Sneezes": 6
+    },
+    {
+      "id": 14,
+      "name": "Rutger",
+      "health": 100,
+      "Sneezes": 0
+    },
+    {
+      "id": 15,
+      "name": "Ryan",
+      "health": 100,
+      "Sneezes": 0
+    },
+    {
+      "id": 16,
+      "name": "Tom",
+      "health": 100,
+      "Sneezes": 0
+    },
+    {
+      "id": 17,
+      "name": "Tracie",
+      "health": 100,
+      "Sneezes": 2
+    },
+    {
+      "id": 18,
+      "name": "Tashawn",
+      "health": 100,
+      "Sneezes": 0
+    }
+  ]
+}

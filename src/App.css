@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+img{
+  width: 15%;
+  height: 35%;
+  padding-bottom: 10px;
+  padding-left: 30px;
+}
+
+
+
+.people-container{
+  /* display: none; */
+  width: 50%;
+  margin: 0 auto;
+  border-top: solid;
+
+}
+
+
+=
+
+#topContainer * {
+  display: flex; 
+  margin:10px;
+ 
+}
+
+.personDiv {
+  display: flex;
+  align-items: center;
+  padding: 2px;
+  margin: 2px;
+}
+
+.personDiv > h1, h3 {
+  display: inline-block; 
+  padding-left: 10px;
+  
+}
+#SneezeButton {
+  margin: 2px;
+}
